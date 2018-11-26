@@ -15,8 +15,8 @@ public class PoliceTest
 
 
 
-        assertTrue(police.checkDriver( adultDriver ));
-        assertFalse( police.checkDriver( notAdultDriver ) );
+        assertTrue(police.checkDriverAge( adultDriver ));
+        assertFalse( police.checkDriverAge( notAdultDriver ) );
 
     }
 
