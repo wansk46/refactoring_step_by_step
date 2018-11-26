@@ -27,3 +27,8 @@
 
 
 4. driver.age >= 18
+4.1. find usage.
+4.2. run test case.
+4.3. create a field called adultAge to 18.
+4.4. refractoring 19 to adultAge from usage.
+4.5. run test case.
